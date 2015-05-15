@@ -1,1 +1,15 @@
+/.env
+*.swp
+*.swo
+/target
+/classes
+/checkouts
+pom.xml
+pom.xml.asc
+*.class
+/.lein-*
+/.nrepl-port
+/resources/private/js/
+/resources/public/js/
+phantomjsdriver.log
 .vagrant/
